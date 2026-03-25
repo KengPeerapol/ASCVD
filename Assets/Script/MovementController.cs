@@ -3,6 +3,7 @@ using UnityEngine.InputSystem;
 
 public class MovementController : MonoBehaviour
 {
+    
     Rigidbody2D rb;
 
     [SerializeField] int speed;
